@@ -2,6 +2,11 @@
 
 ## AIM:
 
+To write a python program for reading content from a CSV file.
+
+## EQUIPMENTS REQUIRED:
+Hardware – PCs
+Anaconda – Python 3.7 Installation / Google collab
 ## ALGORITHM:
 ### Step 1:
 Import pandas as pd.
@@ -47,3 +52,4 @@ print("Number of columns:",len(df.axes[1]))
 
 
 ## RESULT:
+the program has been executed successfully
